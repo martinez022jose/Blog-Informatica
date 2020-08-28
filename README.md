@@ -1,7 +1,7 @@
-# Blog-Informatica :computer:
+# Blog Informatica :computer:
 
 ## Objetivo :dart:
-Poder maquetar una pagina web utilizando unicamente **Bootstrap**. Se busca poner en practica el conocimiento adquirido de bootstrap
+Poder maquetar una pagina web - Blog-Informatica, donde utilizaremos **HTML** y **CSS**. Ademas incorporaremos uso del framework **Bootstrap**, para agilizar determinados procesos. Se busca poner en practica el conocimiento adquirido de **Bootstrap**.
 
 ## Modelado :memo:
 > Pagina Principal:
